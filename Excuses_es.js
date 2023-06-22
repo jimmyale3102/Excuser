@@ -101,4 +101,158 @@ module.exports = [
         excuse: "Hay un problema de drenaje en mi casa y estoy esperando a mi fontanero.",
         category: "family",
     },
+
+    // ---------- Office ----------
+
+    {
+        id: 101,
+        excuse: "Mi esposa y mi hijo estan enfermos y tengo que cuidarlos.",
+        category: "office",
+    },
+    {
+        id: 102,
+        excuse: "Tuve que cuidar a mi perro porque estaba enfermo.",
+        category: "office",
+    },
+    {
+        id: 103,
+        excuse: "Mi suegra falleció.",
+        category: "office",
+    },
+    {
+        id: 104,
+        excuse: "Tuve que llevar a mi esposa al hospital poruqe rompió fuente",
+        category: "office",
+    },
+    {
+        id: 105,
+        excuse: "Tuve que llevar a mi hijo al hospital, tiene una fractura de hueso.",
+        category: "office",
+    },
+    {
+        id: 106,
+        excuse: "Tuve que llevar a mi esposa al hospital porque se fracturó el brazo.",
+        category: "office",
+    },
+    {
+        id: 107,
+        excuse: "Tuve que llevar a mi hijo al hospital porque se fracturó una pierna.",
+        category: "office",
+    },
+    {
+        id: 108,
+        excuse: "Mis papás llegaron a la casa de sorpresa.",
+        category: "office",
+    },
+    {
+        id: 109,
+        excuse: "Tuve un accidente.",
+        category: "office",
+    },
+    {
+        id: 110,
+        excuse: "Estuve en un trancón porque un camión se varó.",
+        category: "office",
+    },
+    {
+        id: 111,
+        excuse: "Tengo una cita odontológica y no la puedo cambiar.",
+        category: "office",
+    },
+    {
+        id: 112,
+        excuse: "Hoy me llega un paquete y tengo que estar para recibirlo.",
+        category: "office",
+    },
+    {
+        id: 113,
+        excuse: "Anoche tuve una reunión familiar y estoy muy cansado.",
+        category: "office",
+    },
+    {
+        id: 114,
+        excuse: "Se rompieron mis gafas y no puedo ver bien.",
+        category: "office",
+    },
+    {
+        id: 115,
+        excuse: "Me dio gripa.",
+        category: "office",
+    },
+    {
+        id: 116,
+        excuse: "Tengo que ir a la reunión de padres de familia en el colegio de mis hijos.",
+        category: "office",
+    },
+    {
+        id: 117,
+        excuse: "Desde que me desperté tengo los ojos rojos y me duele al mirar las pantallas.",
+        category: "office",
+    },
+    {
+        id: 118,
+        excuse: "Ya salió el último bus, y no tengo quién me lleve.",
+        category: "office",
+    },
+    {
+        id: 119,
+        excuse: "Tengo que trabajar en el banco.",
+        category: "office",
+    },
+    {
+        id: 120,
+        excuse: "Hubo un problema en el barrio y la policiá nos pidió que no saliéramos.",
+        category: "office",
+    },
+    {
+        id: 121,
+        excuse: "Tengo mucha tos y no los quiero contagiar.",
+        category: "office",
+    },
+    {
+        id: 122,
+        excuse: "La batería del carro se agotó y no puedo salir de la casa.",
+        category: "office",
+    },
+    {
+        id: 123,
+        excuse: "Me siento cansado, necesito un día para pensar en mi.",
+        category: "office",
+    },
+    {
+        id: 124,
+        excuse: "Le prometí a mis tías que iría a la reunión.",
+        category: "office",
+    },
+    {
+        id: 125,
+        excuse: "Mi hijo tiene actuación de baile final y le prometí que iría.",
+        category: "office",
+    },
+    {
+        id: 126,
+        excuse: "Se dañó la tuvería y estoy tratando de arreglarlo.",
+        category: "office",
+    },
+    {
+        id: 127,
+        excuse: "´Desde que comí mariscos ese día no me ha dejado de doler el estómago.",
+        category: "office",
+    },
+    {
+        id: 128,
+        excuse: "Amanecí con tortículis y no puedo mirar bien la pantalla.",
+        category: "office",
+    },
+    {
+        id: 129,
+        excuse: "Mi conejo acaba de dar a luz y tengo que preparar tofo para los 7 conejos ahora.",
+        category: "office",
+    },
+    {
+        id: 130,
+        excuse: "Me duele demasiado la cabeza.",
+        category: "office",
+    },
+    
 ];
